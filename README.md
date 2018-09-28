@@ -1,2 +1,3 @@
 # hello-world
-Hello World intro repository 28Sep18
+
+This is message for first time using a branch. To get familiar with commit, etc.
